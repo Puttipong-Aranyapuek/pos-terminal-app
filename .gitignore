@@ -12,3 +12,7 @@ coverage/
 !.env.example
 .idea/
 .vscode/
+.agents/
+.claude/
+AGENTS.md
+CLAUDE.md
