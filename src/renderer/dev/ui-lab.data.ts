@@ -3,6 +3,7 @@ export interface UiLabProduct {
   readonly name: string;
   readonly category: string;
   readonly priceLabel: string;
+  readonly imageUrl?: string;
 }
 
 export const UI_LAB_PRODUCTS: readonly UiLabProduct[] = [
